@@ -20,12 +20,19 @@ The company wants to know:
 ---
 
 ## 📂 Project Structure
+
 ├── data/ # Dataset (bike_sharing.csv or link)
+
 ├── notebooks/ # Jupyter notebooks
+
 │ └── yulu_analysis.ipynb
+
 ├── requirements.txt # Python dependencies
+
 ├── LICENSE # License file
+
 ├── .gitignore # Ignore unnecessary files
+
 └── README.md # Project overview
 
 
